@@ -22,7 +22,7 @@ func init() {
 
 func (b *Book) CreateBook() *Book {
 	db.NewRecord(b)
-	db.create(&b)
+	db.Create(&b)
 	return b
 }
 func GetAllBooks() []*Book {

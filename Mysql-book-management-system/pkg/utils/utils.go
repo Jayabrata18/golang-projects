@@ -13,4 +13,3 @@ func ParseBody( r *http.Request, x interface{}){
         }
 	}
 	}
-}
