@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"C:\Users\USER\Desktop\go projects\Mysql-book-management-system\pkg\config"
+	"github.com/Jayabrata18/golang-projects/tree/main/Mysql-book-management-system/pkg/config"
 )
 
 var db *gorm.DB

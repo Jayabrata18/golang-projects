@@ -1,4 +1,4 @@
-module go-bookstore
+module github.com/Jayabrata18/golang-projects/tree/main/Mysql-book-management-system
 
 go 1.20
 

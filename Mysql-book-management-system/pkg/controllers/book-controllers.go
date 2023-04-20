@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/gorilla/mux"
-	"C:\Users\USER\Desktop\go projects\Mysql-book-management-system\pkg\models"
-	"C:\Users\USER\Desktop\go projects\Mysql-book-management-system\pkg\utils"
+	"github.com/Jayabrata18/golang-projects/tree/main/Mysql-book-management-system/pkg/models"
+	"github.com/Jayabrata18/golang-projects/tree/main/Mysql-book-management-system/pkg/utils"
 	"net/http"
 	"strconv"
 )

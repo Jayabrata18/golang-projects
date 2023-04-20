@@ -6,7 +6,7 @@ import(
 	"net/http"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"C:\Users\USER\Desktop\go projects\Mysql-book-management-system\pkg\routes"
+	"github.com/Jayabrata18/golang-projects/tree/main/Mysql-book-management-system/pkg/routes"
 
 )
 
