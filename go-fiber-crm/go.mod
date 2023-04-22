@@ -1,4 +1,4 @@
-module github.com/Jayabrata18/golang-projects/go-fiber-crm
+module go-fiber-crm
 
 go 1.20
 
